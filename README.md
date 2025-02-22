@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://media-hosting.imagekit.io//5709735fe16745ca/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387-removebg-preview.png?Expires=1834851542&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=1RiiNbqC0slRs1El0e1RSwFb-mVJr~Xp2niVhsSG5Q9jLiiGNMlkKd9YiPvc58DHwvCqON9b1SQc2uEG7dVeMF-YO9hPDd8VGlmLWeh3hoNNijxL1DtoFBQ1IYb7Np4fKjkXPPeXBXGn7dxHKn45RZyRlJQ4WzY3fwZVeR09ctpBG54BaJ3k4oYqzacA7jw6RyT4B1k6omYjF7NwUY~fWoXEg7BYvLGfFyf876xuiM55TDewrXL0ZDlrLBHxUcVkyUCvqNCSEt8CXlWzNpm3fkucKXQ8oGKHlvCmWk9mLrlKoY8CSKszK~EwbRez2-wA3hdhx5n8bMsa26k4w~pRsg__" align="center" style="width: 30%" />
 </div>  
-  
 
 ## <div align="center">Harsh | Full-Stack Developer 🚀</div>  
   
