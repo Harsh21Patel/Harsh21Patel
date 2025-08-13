@@ -1,4 +1,4 @@
-<a href="https://github.com/Harsh21Patel"><img src="HarshPatel.gif" alt="Harsh">
+<a href="https://github.com/Harsh21Patel" class="text-center"><img src="HarshPatel.gif" alt="Harsh">
 </a>
 
 <hr>
