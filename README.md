@@ -4,11 +4,18 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>Hey there 👋 I'm Harsh!</strong><br>
+  🎓 CS Undergrad | 💻 Full Stack Dev | ☁️ Tech Explorer
+</p>
+
 <hr>
 <p>I am currently pursuing a Bachelor's in Computer Science and Engineering, with a keen interest in Full Stack Development. I enjoy building both front-end and back-end applications.</p>
 <p>I'm constantly expanding my knowledge in AI, Machine Learning, and Data Science.</p>
 <p>I'm passionate about solving real-world problems with code and am always eager to learn and grow in the ever-evolving tech landscape..</p>
 <p> The technologies I choose are always determined by the specific problem I aim to solve.</p>
+
+---
 
 ### 🔥 Tech Stack
 
@@ -30,10 +37,14 @@
 #### 📁 Version Control
 [![Tech Stack](https://skillicons.dev/icons?i=github,git)](https://github.com/Harsh21Patel/)
 
+---
+
 ### 🌐 Let's Connect:
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harshpatel21/)
 [![](https://skillicons.dev/icons?i=gmail)](mailto:codingwithharshpatel@gmail.com)
 [![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/harshpatel21_/)
-<br><br>
+
+---
+
 <img src="https://komarev.com/ghpvc/?username=Harsh21Patel&color=0096c7&style=for-the-badge&label=VISITOR" width="130" style="margin-left: 0px;">
 
