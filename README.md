@@ -1,5 +1,8 @@
-<a href="https://github.com/Harsh21Patel" class="text-center"><img src="HarshPatel.gif" alt="Harsh">
-</a>
+<p align="center">
+  <a href="https://github.com/Harsh21Patel">
+    <img src="HarshPatel.gif" alt="Harsh">
+  </a>
+</p>
 
 <hr>
 <p>I am currently pursuing a Bachelor's in Computer Science and Engineering, with a keen interest in Full Stack Development. I enjoy building both front-end and back-end applications.</p>
